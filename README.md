@@ -13,4 +13,5 @@ In this repo I am storing all the projects I did for École 42.
 - C04: 100/100
 - C05: 80/100
 - C06: 100/100
-- C07: 40/100
+- C07: 60/100
+- C08: 50/100
